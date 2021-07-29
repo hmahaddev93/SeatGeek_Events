@@ -1,0 +1,52 @@
+{
+  "buildCommand" : "preview",
+  "configuredTargets" : [
+    {
+      "guid" : "381bc9e91b2c40ff18e3db6352e1bd4bb842381c034b49ff53ff7b4243fe1703"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Build/Products",
+      "derivedDataPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData/Events_Explorer-bqjodyvqcrhghjasuqyfuasrxsdn/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData/Events_Explorer-bqjodyvqcrhghjasuqyfuasrxsdn/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Build/Intermediates.noindex/Previews/Events Explorer/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "OBJROOT" : "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Build/Intermediates.noindex/Previews/Events Explorer/Intermediates.noindex",
+          "SYMROOT" : "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Build/Intermediates.noindex/Previews/Events Explorer/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

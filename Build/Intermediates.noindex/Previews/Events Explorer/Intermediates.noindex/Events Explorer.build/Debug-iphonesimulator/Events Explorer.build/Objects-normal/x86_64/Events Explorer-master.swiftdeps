@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "80b016bc76c31479b18ba366d8d05ee5"
+build_time: [1626116835, 290212000]
+inputs:
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Events Explorer/HTTP/SessionManager_Protocol.swift": [1613057181, 0]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Events Explorer/Models/Event.swift": [1626115323, 276273672]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Events Explorer/ContentView.swift": [1626116814, 753292700]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Events Explorer/HTTP/HTTPResponseHandler.swift": [1613057181, 0]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Events Explorer/HTTP/HTTPError.swift": [1613057181, 0]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Events Explorer/HTTP/HTTPClient.swift": [1613057181, 0]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Events Explorer/HTTP/HTTPRequest.swift": [1613057181, 0]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Events Explorer/Events_ExplorerApp.swift": [1626111402, 230777321]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Events-Explorer/Events Explorer/Events Explorer/Models/WebService.swift": [1626116784, 812489044]

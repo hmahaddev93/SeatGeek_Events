@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Alamofire in Alamofire
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+Events Explorer in Events Explorer, depends on:
+Alamofire in Alamofire (explicit)
